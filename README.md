@@ -19,7 +19,7 @@ PROJECT GOAL:
 - SMOTE is used ajdusting the sampling data. For training the data and predicting the target, algorithms used are Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, Naive Bayes, K-Nearest Neighbor, XGBoost Classifier and Artificial Neural Network.
 
 ### Summary
-The project is done with the purpose of finding out the Lead Quality, whether the lead should be followed or not. The    company motive is to invest in the right prospects. So therefore we divided the Lead as 'Good' or 'Bad'. This resulted  in increase of accuracy drastically.
+The project is done with the purpose of finding out the Lead Quality, whether the lead should be followed or not. The company motive is to invest in the right prospects. So therefore we divided the Lead as 'Good' or 'Bad'. This resulted  in increase of accuracy drastically.
     The following steps were carried out:
 1. Import the data, find out the predictor and target and drop columns which has no use in analysis.
 2. Compress and merge the labels such that only the main ones are included and use Label Encoding.
